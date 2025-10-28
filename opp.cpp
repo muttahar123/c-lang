@@ -4,11 +4,13 @@ using namespace std;
 class utilityBills{
     public :
     void displayBill(){
-        cout<<"Utility Bills Displayed"<<endl;
-        cout<<"Electricity Bill: $100"<<endl;
-        cout<<"Water Bill: $50"<<endl;
-        cout<<"Internet Bill: $30"<<endl;
-        cout<<"Total Utility Bill: $180"<<endl;
+     cout<<"Dj mall\n";
+     cout<<"Date: 28-10-2025\n";
+     cout<<"Invoice No: 001254\n";
+     cout<<"Operator name: Muttahar Hunter\n";
+     cout<<"client name: Arsalan Ahmed\n";
+     cout<<"Cleint type: walkin\n";
+     cout<<"price: \n";
     }
     int main(){
         utilityBills ub;
